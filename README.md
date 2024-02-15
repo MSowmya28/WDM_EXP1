@@ -1,8 +1,10 @@
-### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
-### AIM: 
+## EX1:
+## Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+
+#### DATE: 
+## AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
-### PROCEDURE: 
+## PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
@@ -52,13 +54,18 @@ rainy,75.0,80.0,false,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows employee table on weka.
 
-### OUTPUT:
+## OUTPUT:
+### Employee:
+![output](./web%20employee.png)
+
+### Weather:
+![output](./web%20weather.png)
 
 
 
-### PREPROCESSING
-### Procedure:
-#### 1) Add -> Pre-Processing Technique:
+## PREPROCESSING
+## Procedure:
+## 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
 3) Click on open file.
@@ -74,9 +81,14 @@ rainy,75.0,80.0,false,yes
 13) Save the file.
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+## OUTPUT:
+### Weather:
+![output](./web%201c.png)
 
-### 2) Remove -> Pre-Processing Technique:
+### Employee:
+![output](./web%201D%20add.png)
+
+## 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
@@ -90,9 +102,13 @@ rainy,75.0,80.0,false,yes
 10) Click Remove button and then Save.
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+## OUTPUT:
+### Weather:
+![output](./web%201c%20remove.png)
+### Employee:
+![output](./web%201D%20remove.png)
 
-### Normalize -> Pre-Processing Technique:
+## Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
@@ -106,6 +122,10 @@ rainy,75.0,80.0,false,yes
 10) Click on Apply button and then Save.
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
-### OUTPUT:
+## OUTPUT:
+### Weather:
+![output](./web%20ic%20normalise.png)
+### Employee:
+![output](./web%201D%20normalize.png)
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
